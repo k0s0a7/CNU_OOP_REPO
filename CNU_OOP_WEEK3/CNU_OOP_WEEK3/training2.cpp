@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 #define MAXSTACKSIZE 1000 // 스택의 최대 크기
 
@@ -50,4 +51,4 @@ int main() {
 	system("pause");
 
 	return 0;
-}
+}*/

@@ -1,4 +1,4 @@
-#include <stdio.h> 
+/*#include <stdio.h> 
 
 void print(int var) {
 	printf("Integer number: %d \n", var);
@@ -24,4 +24,4 @@ int main() {
 	print(a, b);
 
 	return 0;
-}
+}*/

@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 class SetValue {
 private:
 	int x, y;	// 추상화를 위해 private으로 변수를 외부로부터 숨김.
@@ -29,4 +29,4 @@ int main() {
 	std::cout << " x 는 " << obj.getx() << " y 는 " << obj.gety() << std::endl;
 
 	return 0;
-}
+}*/
